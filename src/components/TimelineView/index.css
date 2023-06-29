@@ -1,0 +1,12 @@
+/* .chrono-container {
+  display: flex;
+  align-items: center;
+} */
+.heading {
+  text-align: center;
+}
+.bio {
+  font-size: 15px;
+  text-align: center;
+  font-weight: 500;
+}
